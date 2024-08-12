@@ -16,16 +16,32 @@ To install and set up the project, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
-2. Navigate to the project directory
-
-
-
-
-
-
+2. Install the dependencies:
+   ```js
+   npm install
+   ```
+   For iOS:
+   ```js
+   cd ios
+   pod install
+   cd ..
+   ```
 
 # Running the App
+   For Android:
+   ```js
+     npx react-native run-android
+   ```
 
-1. For Android : npx react-native run-android
+   For iOS:
+   ```js
+     npx react-native run-ios
+   ```
 
-2. For iOS: npx react-native run-ios
+# Screenshots
+
+  ![Home Page](./screenshots/home-page.png)
+
+  ![SignUp Page](./screenshots/signup-page.png)
+
+  ![SignUp Page](./screenshots/login-page.png)
