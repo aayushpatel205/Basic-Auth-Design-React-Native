@@ -14,7 +14,7 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aayushpatel205/Basic-Auth-Design-React-Native
 
 2. Install the dependencies:
    ```js
